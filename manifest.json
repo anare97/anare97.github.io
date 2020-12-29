@@ -1,0 +1,16 @@
+{
+    "name": "Profil Daerah Cilacap",
+    "short_name": "Profil Cilacap",
+    "description": "Aplikasi PWA Profil dari Kabupaten Cilacap",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#039be5",
+    "theme_color": "#039be5",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
